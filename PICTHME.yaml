@@ -1,0 +1,21 @@
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+# Transition Pilih Aja convex, concave, default, fade, none, slide and zoom
+theme : night
+theme-override : assets/css/PITCHME.css
+logo : assets/image/banten-dev.png
+highlight : atom-one-light
+transition : concave
+published : true
+footnote : "Banten Development Presentasi Online"
+remote-control: true
+slide-number : true
+background : /assets/image/wallpaper.jpg
+background-size: cover
+remote-control: true
+slide-number : true
+mousewheel : true
